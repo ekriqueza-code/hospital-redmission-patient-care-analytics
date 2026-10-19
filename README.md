@@ -10,6 +10,8 @@ Este repositório contém um sistema de análise preditiva clínica e inteligên
 
 ## 📊 Cockpit de Inteligência Hospitalar (Clinical BI)
 
+Observe abaixo o painel interativo de monitoramento integrado gerado pelo pipeline:
+
 ![Dashboard Hospitalar](dashboard-hospital.png)
 
 ---
